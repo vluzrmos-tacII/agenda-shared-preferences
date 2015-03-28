@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App - Agenda ShPref</string>
+    <string name="action_settings">Configurações</string>
+    <string name="hello_world">Olá mundo!</string>
+    <string name="hint_contact_email">Endereço de e-mail</string>
+    <string name="hint_contact_tel">Telefone</string>
+    <string name="hint_contact_name">Nome do Contato</string>
+    <string name="label_contact_email">E-mail:</string>
+    <string name="label_contact_name">Nome:</string>
+    <string name="label_contact_tel">Tel:</string>
+    <string name="new_contact">Novo</string>
+    <string name="next"><![CDATA[>>]]></string>
+    <string name="prev"><![CDATA[<<]]></string>
+    <string name="remove">Remover</string>
+    <string name="save">Salvar</string>
+    <string name="validation_contact_email">Endereço de e-mail inválido!</string>
+    <string name="validation_contact_name">O nome do contato é obrigatório!</string>
+    <string name="action_call">Ligar</string>
+    <string name="validation_contact_tel">Número de telefone inválido!</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">App - Agenda Shared Preferences</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Contact strings -->
+    <string name="label_contact_name">Name:</string>
+    <string name="hint_contact_name">Contact name</string>
+    <string name="label_contact_email">E-mail:</string>
+    <string name="hint_contact_email">E-mail address</string>
+    <string name="label_contact_tel">Tel:</string>
+    <string name="hint_contact_tel">Telephone</string>
+    <!-- End Contact string -->
+
+    <string name="save">Save</string>
+    <string name="remove">Remove</string>
+    <string name="prev"><![CDATA[<<]]></string>
+    <string name="next"><![CDATA[>>]]></string>
+    <string name="new_contact">New</string>
+    <string name="validation_contact_name">Contact name is required!</string>
+    <string name="validation_contact_email">Invalid e-mail address!</string>
+    <string name="action_call">Call</string>
+    <string name="validation_contact_tel">Invalid phone number!</string>
+</resources>
