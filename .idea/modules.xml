@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AgendaSharedPreferences.iml" filepath="$PROJECT_DIR$/AgendaSharedPreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agenda-shared-preferences.iml" filepath="$PROJECT_DIR$/agenda-shared-preferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

@@ -161,6 +161,8 @@ public class MainActivity extends Activity {
     }
 
     private void clearErrors(){
+        contactName.requestFocus();
+
         contactName.setError(null);
         contactEmail.setError(null);
         contactTel.setError(null);
